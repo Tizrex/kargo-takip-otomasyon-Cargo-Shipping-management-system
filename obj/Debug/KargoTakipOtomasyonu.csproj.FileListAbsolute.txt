@@ -1,0 +1,12 @@
+C:\KargoTakipOtomasyonu-master\bin\Debug\KargoTakipOtomasyonu.exe
+C:\KargoTakipOtomasyonu-master\bin\Debug\KargoTakipOtomasyonu.pdb
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.Form1.resources
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.Form2.resources
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.Properties.Resources.resources
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.UyeGiris.resources
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.YoneticiGiris.resources
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.csproj.GenerateResource.cache
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.exe
+C:\KargoTakipOtomasyonu-master\obj\Debug\KargoTakipOtomasyonu.pdb
